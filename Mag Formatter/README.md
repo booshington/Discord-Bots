@@ -20,6 +20,7 @@ Person1,Person2,Person3,Person4,Person5
 ### Sample output:
 
 | Skull | Cross | Square | Moon | Diamond |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 | Clicker # 1 | Person1With | Person2 | Person3 | Person4 | Person5 |
 | Clicker # 2 | Person1 | Person2 | Person3 | Person4 | Person5 |
 | Clicker # 3 | Person1 | Person2 | Person3 | AnotherPers | Person5 |
