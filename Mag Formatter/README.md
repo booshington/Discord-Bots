@@ -4,7 +4,9 @@
 
 ## Basic Usage
 
-Once installed in Discord, invoke the bot with the following command syntax:
+Once installed in Discord, invoke the bot with the following command: `!magformat`
+
+Clicker groups are columnar and are numbered automatically as the table is being constructed.
 
 ### Sample Input:
 `
@@ -43,3 +45,4 @@ The subsequent lines detail the Clicker order in comma-separated manner. Whitesp
 `Person1WithAReallyLongName,Person2,Person3,Person4,Person5`
 `      Person1WithAReallyLongName, Person2, Person3, Person4      , Person5`
 
+**Bugs, issues, criticisms, or suggestions for improvement or other Discord bots are appreciated!**
