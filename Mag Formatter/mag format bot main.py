@@ -12,16 +12,6 @@ del_flag_text = '--no-delete'
 async def on_ready():
     print('We have logged in as {0.user}'.format(client))
 
-'''
-!magformat --no-delete
-Skull, Cross, Square, Moon, Diamond
-Person1WithAReallyLongName,Person2,Person3,Person4,Person5
-Person1,Person2,Person3,Person4,Person5
-Person1,Person2,Person3,AnotherPersonWithALongName,Person5
-Person1,Person2,Person3,Person4,Person5
-Person1,Person2,Person3,Person4,Person5
-'''
-
 
 def format_table_line(user_string, index=0, width=12):
     form_line = []
