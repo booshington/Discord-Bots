@@ -11,11 +11,17 @@ Clicker groups are columnar and are numbered automatically as the table is being
 ### Sample Input:
 
 `!magformat --no-delete`
+
 `Skull, Cross, Square, Moon, Diamond`
+
 `Person1WithAReallyLongName,Person2,Person3,Person4,Person5`
+
 `Person1,Person2,Person3,Person4,Person5`
+
 `Person1,Person2,Person3,AnotherPersonWithALongName,Person5`
+
 `Person1,Person2,Person3,Person4,Person5`
+
 `Person1,Person2,Person3,Person4,Person5`
 
 
