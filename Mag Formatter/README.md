@@ -9,21 +9,21 @@ Once installed in Discord, invoke the bot with the following command: `!magforma
 Clicker groups are columnar and are numbered automatically as the table is being constructed.
 
 ### Sample Input:
+`
+!magformat --no-delete
 
-`!magformat --no-delete`
+Skull, Cross, Square, Moon, Diamond
 
-`Skull, Cross, Square, Moon, Diamond`
+Person1WithAReallyLongName,Person2,Person3,Person4,Person5
 
-`Person1WithAReallyLongName,Person2,Person3,Person4,Person5`
+Person1,Person2,Person3,Person4,Person5
 
-`Person1,Person2,Person3,Person4,Person5`
+Person1,Person2,Person3,AnotherPersonWithALongName,Person5
 
-`Person1,Person2,Person3,AnotherPersonWithALongName,Person5`
+Person1,Person2,Person3,Person4,Person5
 
-`Person1,Person2,Person3,Person4,Person5`
-
-`Person1,Person2,Person3,Person4,Person5`
-
+Person1,Person2,Person3,Person4,Person5
+`
 
 ### Sample output:
 
